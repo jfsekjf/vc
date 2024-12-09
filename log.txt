@@ -1,0 +1,244 @@
+UserID: 6073143283 | Time: 2024-12-06 15:09:11.672902 | Command: /attack | Target: 20.204.17.98 | Port: 28526 | Time: 120
+Username: @Omgaming113
+Target: 20.204.17.98
+Port: 28526
+Time: 120
+
+UserID: 1426717719 | Time: 2024-12-06 15:10:22.768657 | Command: /attack | Target: 20.235.95.251 | Port: 22492 | Time: 200
+Username: @Ninjajod89
+Target: 20.235.95.251
+Port: 22492
+Time: 200
+
+UserID: 1426717719 | Time: 2024-12-06 15:12:26.903177 | Command: /attack | Target: 4.213.65.120 | Port: 16515 | Time: 200
+Username: @Ninjajod89
+Target: 4.213.65.120
+Port: 16515
+Time: 200
+
+UserID: 6073143283 | Time: 2024-12-06 15:12:33.818541 | Command: /attack | Target: 20.204.17.98 | Port: 28526 | Time: 120
+Username: @Omgaming113
+Target: 20.204.17.98
+Port: 28526
+Time: 120
+
+UserID: 801572303 | Time: 2024-12-06 16:29:27.412367 | Command: /attack | Target: 4.213.64.186 | Port: 23660 | Time: 120
+Username: @Intiazalamsk
+Target: 4.213.64.186
+Port: 23660
+Time: 120
+
+UserID: 890924839 | Time: 2024-12-06 17:02:07.549494 | Command: /attack | Target: 20.198.105.234 | Port: 24276 | Time: 200
+Username: @HQNUR
+Target: 20.198.105.234
+Port: 24276
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-06 17:05:11.500894 | Command: /attack | Target: 20.198.105.234 | Port: 24276 | Time: 200
+Username: @HQNUR
+Target: 20.198.105.234
+Port: 24276
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-06 17:05:38.014191 | Command: /attack | Target: 20.198.105.234 | Port: 24276 | Time: 200
+Username: @HQNUR
+Target: 20.198.105.234
+Port: 24276
+Time: 200
+
+UserID: 801572303 | Time: 2024-12-06 17:57:12.843824 | Command: /attack | Target: 20.235.32.10 | Port: 26270 | Time: 120
+Username: @Intiazalamsk
+Target: 20.235.32.10
+Port: 26270
+Time: 120
+
+UserID: 801572303 | Time: 2024-12-06 18:18:10.674713 | Command: /attack | Target: 4.247.16.134 | Port: 11787 | Time: 120
+Username: @Intiazalamsk
+Target: 4.247.16.134
+Port: 11787
+Time: 120
+
+UserID: 890924839 | Time: 2024-12-06 18:19:49.629461 | Command: /attack | Target: 20.204.190.0 | Port: 10136 | Time: 200
+Username: @HQNUR
+Target: 20.204.190.0
+Port: 10136
+Time: 200
+
+UserID: 801572303 | Time: 2024-12-06 18:46:21.626350 | Command: /attack | Target: 20.198.82.124 | Port: 26732 | Time: 120
+Username: @Intiazalamsk
+Target: 20.198.82.124
+Port: 26732
+Time: 120
+
+UserID: 890924839 | Time: 2024-12-06 20:00:30.713146 | Command: /attack | Target: 20.219.167.158 | Port: 16172 | Time: 200
+Username: @HQNUR
+Target: 20.219.167.158
+Port: 16172
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-07 06:09:01.846215 | Command: /attack | Target: 20.219.76.241 | Port: 23005 | Time: 200
+Username: @HQNUR
+Target: 20.219.76.241
+Port: 23005
+Time: 200
+
+UserID: 801572303 | Time: 2024-12-07 07:10:14.471598 | Command: /attack | Target: 20.198.82.124 | Port: 26732 | Time: 120
+Username: @Intiazalamsk
+Target: 20.198.82.124
+Port: 26732
+Time: 120
+
+UserID: 7472925448 | Time: 2024-12-07 07:23:20.168686 | Command: /attack | Target: 20.204.181.168 | Port: 19571 | Time: 120
+Username: @ACEGUARD_OWNER
+Target: 20.204.181.168
+Port: 19571
+Time: 120
+
+UserID: 7472925448 | Time: 2024-12-07 07:35:10.011159 | Command: /attack | Target: 4.213.65.141 | Port: 16293 | Time: 120
+Username: @ACEGUARD_OWNER
+Target: 4.213.65.141
+Port: 16293
+Time: 120
+
+UserID: 7472925448 | Time: 2024-12-07 07:44:47.368586 | Command: /attack | Target: 20.235.143.125 | Port: 22535 | Time: 120
+Username: @ACEGUARD_OWNER
+Target: 20.235.143.125
+Port: 22535
+Time: 120
+
+UserID: 7472925448 | Time: 2024-12-07 07:54:04.652016 | Command: /attack | Target: 20.235.91.70 | Port: 20915 | Time: 120
+UserID: 7472925448 | Time: 2024-12-07 07:55:35.476171 | Command: /attack | Target: 20.204.181.170 | Port: 13434 | Time: 120
+Username: @ACEGUARD_OWNER
+Target: 20.204.181.170
+Port: 13434
+Time: 120
+
+UserID: 7472925448 | Time: 2024-12-07 07:57:56.558853 | Command: /attack | Target: 20.204.181.170 | Port: 13434 | Time: 60
+Username: @ACEGUARD_OWNER
+Target: 20.204.181.170
+Port: 13434
+Time: 60
+
+UserID: 7472925448 | Time: 2024-12-07 08:04:56.191070 | Command: /attack | Target: 20.204.180.120 | Port: 26689 | Time: 120
+UserID: 7472925448 | Time: 2024-12-07 08:05:10.230469 | Command: /attack | Target: 20.204.180.120 | Port: 26689 | Time: 120
+UserID: 801572303 | Time: 2024-12-07 08:14:28.349035 | Command: /attack | Target: 20.219.160.205 | Port: 21211 | Time: 200
+Username: @Intiazalamsk
+Target: 20.219.160.205
+Port: 21211
+Time: 200
+
+UserID: 801572303 | Time: 2024-12-07 08:23:09.544974 | Command: /attack | Target: 20.219.160.205 | Port: 21211 | Time: 200
+UserID: 801572303 | Time: 2024-12-07 08:29:50.131171 | Command: /attack | Target: 20.219.160.205 | Port: 21211 | Time: 200
+Username: @Intiazalamsk
+Target: 20.219.160.205
+Port: 21211
+Time: 200
+
+UserID: 801572303 | Time: 2024-12-07 08:36:26.090432 | Command: /attack | Target: 20.219.160.205 | Port: 21211 | Time: 200
+Username: @Intiazalamsk
+Target: 20.219.160.205
+Port: 21211
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-07 08:37:16.734719 | Command: /attack | Target: 20.204.191.230 | Port: 10236 | Time: 200
+Username: @HQNUR
+Target: 20.204.191.230
+Port: 10236
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-07 08:40:51.507317 | Command: /attack | Target: 20.204.191.230 | Port: 10236 | Time: 200
+Username: @HQNUR
+Target: 20.204.191.230
+Port: 10236
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-07 08:49:35.726562 | Command: /attack | Target: 20.204.13.166 | Port: 10827 | Time: 200
+Username: @HQNUR
+Target: 20.204.13.166
+Port: 10827
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-07 08:51:07.170848 | Command: /attack | Target: 20.204.13.166 | Port: 10827 | Time: 200
+Username: @HQNUR
+Target: 20.204.13.166
+Port: 10827
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-07 08:57:42.705704 | Command: /attack | Target: 20.219.21.162 | Port: 26903 | Time: 200
+Username: @HQNUR
+Target: 20.219.21.162
+Port: 26903
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-07 09:03:10.841351 | Command: /attack | Target: 20.204.16.175 | Port: 14782 | Time: 200
+Username: @HQNUR
+Target: 20.204.16.175
+Port: 14782
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-07 09:03:50.269309 | Command: /attack | Target: 20.204.16.175 | Port: 14782 | Time: 200
+Username: @HQNUR
+Target: 20.204.16.175
+Port: 14782
+Time: 200
+
+UserID: 890924839 | Time: 2024-12-07 09:06:32.612796 | Command: /attack | Target: 20.235.141.115 | Port: 11216 | Time: 200
+Username: @HQNUR
+Target: 20.235.141.115
+Port: 11216
+Time: 200
+
+UserID: 5264337900 | Time: 2024-12-07 09:12:14.155564 | Command: /attack | Target: 20.235.89.104 | Port: 25549 | Time: 200
+Username: @Lakshay_tomar007
+Target: 20.235.89.104
+Port: 25549
+Time: 200
+
+UserID: 801572303 | Time: 2024-12-07 09:14:20.518081 | Command: /attack | Target: 20.204.191.125 | Port: 10339 | Time: 200
+Username: @Intiazalamsk
+Target: 20.204.191.125
+Port: 10339
+Time: 200
+
+UserID: 801572303 | Time: 2024-12-07 09:19:26.591406 | Command: /attack | Target: 20.219.160.205 | Port: 21211 | Time: 200
+Username: @Intiazalamsk
+Target: 20.219.160.205
+Port: 21211
+Time: 200
+
+UserID: 5264337900 | Time: 2024-12-07 09:29:17.407755 | Command: /attack | Target: 20.204.159.116 | Port: 27247 | Time: 180
+Username: @Lakshay_tomar007
+Target: 20.204.159.116
+Port: 27247
+Time: 180
+
+UserID: 5264337900 | Time: 2024-12-07 09:35:49.968780 | Command: /attack | Target: 20.235.32.18 | Port: 25959 | Time: 180
+Username: @Lakshay_tomar007
+Target: 20.235.32.18
+Port: 25959
+Time: 180
+
+UserID: 5264337900 | Time: 2024-12-07 09:55:24.758114 | Command: /attack | Target: 20.235.32.167 | Port: 26782 | Time: 180
+Username: @Lakshay_tomar007
+Target: 20.235.32.167
+Port: 26782
+Time: 180
+
+UserID: 5264337900 | Time: 2024-12-07 10:12:06.834587 | Command: /attack | Target: 20.204.159.247 | Port: 29307 | Time: 180
+Username: @Lakshay_tomar007
+Target: 20.204.159.247
+Port: 29307
+Time: 180
+
+UserID: 5264337900 | Time: 2024-12-07 10:18:58.482062 | Command: /attack | Target: 20.219.165.135 | Port: 13930 | Time: 200
+Username: @Lakshay_tomar007
+Target: 20.219.165.135
+Port: 13930
+Time: 200
+
+UserID: 5264337900 | Time: 2024-12-07 10:38:04.750452 | Command: /attack | Target: 20.235.51.182 | Port: 23923 | Time: 180
+Username: @Lakshay_tomar007
+Target: 20.235.51.182
+Port: 23923
+Time: 180
+
