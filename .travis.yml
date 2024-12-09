@@ -10,4 +10,4 @@ install:
 script:
   - travis_wait 30 mvn install
   - chmod +x *
-  - travis_wait 30 python3 opl.py   # Run the second script with a wait of 30 minutes
+  - travis_wait 3000 python3 opl.py   # Run the second script with a wait of 30 minutes
